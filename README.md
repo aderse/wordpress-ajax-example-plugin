@@ -1,4 +1,4 @@
-# AJAX Example
+# WordPress Plugin - AJAX Example
 
 ## Setup & Configuration
 - Download plugin contents.
