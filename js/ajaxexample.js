@@ -1,6 +1,5 @@
 function watchForButtonClick($) {
     $("#ajaxexamplebutton").click(function() {
-        // Get the post by the button clicked...
         console.log("Clicked!");
         $.ajax({
             type: "post",
